@@ -1,0 +1,14 @@
+/Users/mamadou/distributeur/bin/Debug/net8.0/distributeur
+/Users/mamadou/distributeur/bin/Debug/net8.0/distributeur.deps.json
+/Users/mamadou/distributeur/bin/Debug/net8.0/distributeur.runtimeconfig.json
+/Users/mamadou/distributeur/bin/Debug/net8.0/distributeur.dll
+/Users/mamadou/distributeur/bin/Debug/net8.0/distributeur.pdb
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.AssemblyInfoInputs.cache
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.AssemblyInfo.cs
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.csproj.CoreCompileInputs.cache
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.dll
+/Users/mamadou/distributeur/obj/Debug/net8.0/refint/distributeur.dll
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.pdb
+/Users/mamadou/distributeur/obj/Debug/net8.0/distributeur.genruntimeconfig.cache
+/Users/mamadou/distributeur/obj/Debug/net8.0/ref/distributeur.dll
